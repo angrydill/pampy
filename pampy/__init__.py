@@ -1,5 +1,8 @@
 __version__ = '0.2.1'
 
+# This is a CRG test edit to see if it breaks tests
+afsdfjasdf
+
 import sys
 
 major, minor = sys.version_info.major, sys.version_info.minor
