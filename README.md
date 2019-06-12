@@ -2,15 +2,15 @@
 
 # Pampy: Pattern Matching for Python
 [![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)]()
-[![Travis-CI Status](https://api.travis-ci.org/santinic/pampy.svg?branch=master)](https://travis-ci.org/santinic/pampy)
-[![Coverage Status](https://coveralls.io/repos/github/santinic/pampy/badge.svg?branch=master)](https://coveralls.io/github/santinic/pampy?branch=master)
+[![Travis-CI Status](https://api.travis-ci.org/angrydill/pampy.svg?branch=master)](https://travis-ci.org/santinic/pampy)
+[![Coverage Status](https://coveralls.io/repos/github/angrydill/pampy/badge.svg?branch=master)](https://coveralls.io/github/angrydill/pampy?branch=master)
 [![PyPI version](https://badge.fury.io/py/pampy.svg)](https://badge.fury.io/py/pampy)
 
 Pampy is pretty small (150 lines), reasonably fast, and often makes your code more readable
-and hence easier to reason about. [There is also a JavaScript version, called Pampy.js](https://github.com/santinic/pampy.js).
+and hence easier to reason about. [There is also a JavaScript version, called Pampy.js](https://github.com/angrydill/pampy.js).
 
 <kbd>
-  <img src="https://raw.githubusercontent.com/santinic/pampy/master/imgs/slide1.png" width="700">
+  <img src="https://raw.githubusercontent.com/angrydill/pampy/master/imgs/slide1.png" width="700">
 </kbd>
 
 ## You can write many patterns
@@ -18,7 +18,7 @@ and hence easier to reason about. [There is also a JavaScript version, called Pa
 Patterns are evaluated in the order they appear.
 
 <kbd>
-  <img src="https://raw.githubusercontent.com/santinic/pampy/master/imgs/slide2.png" width="700">
+  <img src="https://raw.githubusercontent.com/angrydill/pampy/master/imgs/slide2.png" width="700">
 </kbd>
 
 
