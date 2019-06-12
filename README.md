@@ -2,7 +2,7 @@
 
 # Pampy: Pattern Matching for Python
 [![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)]()
-[![Travis-CI Status](https://api.travis-ci.org/angrydill/pampy.svg?branch=master)](https://travis-ci.org/santinic/pampy)
+[![Travis-CI Status](https://api.travis-ci.org/angrydill/pampy.svg?branch=master)](https://travis-ci.org/angrydill/pampy)
 [![Coverage Status](https://coveralls.io/repos/github/angrydill/pampy/badge.svg?branch=master)](https://coveralls.io/github/angrydill/pampy?branch=master)
 [![PyPI version](https://badge.fury.io/py/pampy.svg)](https://badge.fury.io/py/pampy)
 
